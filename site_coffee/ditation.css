@@ -1,0 +1,29 @@
+* {
+font-family: courier;
+color: maroon;
+}
+
+body {
+background-color: rgb(190, 125, 60);
+}
+
+body h1 {
+color: lightgray;
+text-align: center;
+}
+
+body p {
+text-align: center; 
+font-size: 20px;
+}
+
+body button {
+color: lightgray;
+background-color: rgb(80, 29, 29);
+cursor: pointer;
+padding: 10px 20px;
+text-decoration: none;
+display: flex;
+margin: auto;
+border-radius: 12px;
+}
